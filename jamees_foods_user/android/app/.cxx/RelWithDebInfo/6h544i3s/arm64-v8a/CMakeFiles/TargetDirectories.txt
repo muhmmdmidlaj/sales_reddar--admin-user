@@ -1,0 +1,2 @@
+D:/jammes_food/jamees_foods_frontend/android/app/.cxx/RelWithDebInfo/6h544i3s/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/jammes_food/jamees_foods_frontend/android/app/.cxx/RelWithDebInfo/6h544i3s/arm64-v8a/CMakeFiles/rebuild_cache.dir
